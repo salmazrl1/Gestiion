@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Myallcategorie</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="centre">Les centres</string>
+    <string name="profile">Profile</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="solo">Everthing Tiznit hoids it is here!</string>
+    <string name="solm">Welcome</string>
+</resources>
